@@ -1,4 +1,4 @@
-baseURL = 'https://welcomerain.pub/'
+baseURL = 'https://welcomerain.pub'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Hugo Site (TEST)'
 theme = 'ananke'
